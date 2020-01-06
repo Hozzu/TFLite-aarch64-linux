@@ -1,0 +1,83 @@
+This is the file .../info/dir, which contains the
+topmost node of the Info hierarchy, called (dir)Top.
+The first time you invoke Info you start off looking at this node.
+
+File: dir,	Node: Top	This is the top of the INFO tree
+
+  This (the Directory node) gives a menu of major topics.
+  Typing "q" exits, "H" lists all Info commands, "d" returns here,
+  "h" gives a primer for first-timers,
+  "mEmacs<Return>" visits the Emacs manual, etc.
+
+  In Emacs, you can click mouse button 2 on a menu item or cross reference
+  to select it.
+
+* Menu:
+
+GNU Libraries
+* libgomp: (libgomp).           GNU Offloading and Multi Processing Runtime 
+                                  Library.
+* libitm: (libitm).             GNU Transactional Memory Library
+* libquadmath: (libquadmath).   GCC Quad-Precision Math Library
+
+Individual utilities
+* addr2line: (binutils)addr2line.               Convert addresses to file and 
+                                                  line.
+* ar: (binutils)ar.                             Create, modify, and extract 
+                                                  from archives.
+* c++filt: (binutils)c++filt.                   Filter to demangle encoded C++ 
+                                                  symbols.
+* cxxfilt: (binutils)c++filt.                   MS-DOS name for c++filt.
+* dlltool: (binutils)dlltool.                   Create files needed to build 
+                                                  and use DLLs.
+* elfedit: (binutils)elfedit.                   Update ELF header and property 
+                                                  of ELF files.
+* nm: (binutils)nm.                             List symbols from object files.
+* objcopy: (binutils)objcopy.                   Copy and translate object 
+                                                  files.
+* objdump: (binutils)objdump.                   Display information from 
+                                                  object files.
+* ranlib: (binutils)ranlib.                     Generate index to archive 
+                                                  contents.
+* readelf: (binutils)readelf.                   Display the contents of ELF 
+                                                  format files.
+* size: (binutils)size.                         List section sizes and total 
+                                                  size.
+* strings: (binutils)strings.                   List printable strings from 
+                                                  files.
+* strip: (binutils)strip.                       Discard symbols.
+* windmc: (binutils)windmc.                     Generator for Windows message 
+                                                  resources.
+* windres: (binutils)windres.                   Manipulate Windows resources.
+
+Software development
+* Annotate: (annotate).         The obsolete annotation interface.
+* As: (as).                     The GNU assembler.
+* Bfd: (bfd).                   The Binary File Descriptor library.
+* Binutils: (binutils).         The GNU binary utilities.
+* Gas: (as).                    The GNU assembler.
+* Gdb: (gdb).                   The GNU debugger.
+* Ld: (ld).                     The GNU linker.
+* Make: (make).                 Remake files automatically.
+* Stabs: (stabs).               The "stabs" debugging information format.
+* gdbserver: (gdb) Server.      The GNU debugging server.
+* gprof: (gprof).               Profiling your program's execution
+
+Texinfo documentation system
+* info stand-alone: (info-stnd).
+                                Read Info documents without Emacs.
+* install-info: (texinfo)Invoking install-info.
+                                Update info/dir entries.
+* makeinfo: (texinfo)Invoking makeinfo.
+                                Translate Texinfo source.
+* pdftexi2dvi: (texinfo)PDF Output.
+                                PDF output for Texinfo.
+* pod2texi: (pod2texi)Invoking pod2texi.
+                                Translate Perl POD to Texinfo.
+* texi2dvi: (texinfo)Format with texi2dvi.
+                                Print Texinfo documents.
+* texi2pdf: (texinfo)PDF Output.
+                                PDF output for Texinfo.
+* texindex: (texinfo)Format with tex/texindex.
+                                Sort Texinfo index files.
+* Texinfo: (texinfo).           The GNU documentation format.

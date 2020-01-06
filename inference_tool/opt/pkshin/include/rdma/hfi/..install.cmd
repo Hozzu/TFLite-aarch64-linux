@@ -1,0 +1,1 @@
+cmd_/opt/include/rdma/hfi/.install := /bin/bash scripts/headers_install.sh /opt/include/rdma/hfi ./include/uapi/rdma/hfi hfi1_ioctl.h hfi1_user.h; /bin/bash scripts/headers_install.sh /opt/include/rdma/hfi ./include/generated/uapi/rdma/hfi ; touch /opt/include/rdma/hfi/.install

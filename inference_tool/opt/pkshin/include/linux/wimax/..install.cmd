@@ -1,0 +1,1 @@
+cmd_/opt/include/linux/wimax/.install := /bin/bash scripts/headers_install.sh /opt/include/linux/wimax ./include/uapi/linux/wimax i2400m.h; /bin/bash scripts/headers_install.sh /opt/include/linux/wimax ./include/generated/uapi/linux/wimax ; touch /opt/include/linux/wimax/.install

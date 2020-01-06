@@ -1,0 +1,1 @@
+cmd_/opt/include/linux/hsi/.install := /bin/bash scripts/headers_install.sh /opt/include/linux/hsi ./include/uapi/linux/hsi hsi_char.h cs-protocol.h; /bin/bash scripts/headers_install.sh /opt/include/linux/hsi ./include/generated/uapi/linux/hsi ; touch /opt/include/linux/hsi/.install

@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: tflite-runtime
+Version: 1.14.0
+Summary: TensorFlow Lite is for mobile and embedded devices.
+Home-page: https://www.tensorflow.org/lite/
+Author: Google Inc.
+Author-email: packages@tensorflow.org
+License: Apache 2.0
+Keywords: tflite tensorflow tensor machine learning
+Platform: UNKNOWN
+
+TensorFlow Lite is the official solution for running machine learning models on
+mobile and embedded devices. It enables on-device machine learning inference
+with low latency and a small binary size on Android, iOS, and other operating
+systems.
+
+
