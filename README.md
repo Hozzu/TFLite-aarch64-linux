@@ -1,7 +1,7 @@
 # TFLiteAGL
 Deep learning inference SW framework based on TensorFlow Lite for Automotive Grade Linux (AGL)
 
-This solution can be installed on any Linux system including AGL
+This solution can be installed on any arm64 Linux system including AGL
 
 For detail, read the ppt
 
