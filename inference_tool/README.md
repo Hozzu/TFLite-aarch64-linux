@@ -26,9 +26,9 @@ https://www.tensorflow.org/lite/guide/inference
 In order to build C++ application, use g++ with '-pthread -ltensorflow-lite -ldl -lrt' option
 
 ### d) Run your applications
-In order to run Python applications, python3 <YOUR CODE>
+In order to run Python applications, python3 \<YOUR CODE\>
   
-In order to run C++ applications, ./<YOUR BINARY>
+In order to run C++ applications, ./\<YOUR BINARY\>
 
 There are sample codes and models in tensorflow-lite_example directory
 
