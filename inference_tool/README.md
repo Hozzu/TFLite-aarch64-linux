@@ -7,6 +7,7 @@
 
 ## 1. How to install
 Run install.sh
+
 You should restart the shell after installation
 
 
