@@ -1,4 +1,4 @@
-# TFLiteAGL
+# TFLite for Aarch64 Linux
 Deep learning inference SW framework based on TensorFlow Lite for Automotive Grade Linux (AGL)
 
 This solution can be installed on any arm64 Linux system including AGL
