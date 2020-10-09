@@ -1,7 +1,7 @@
 # TFLite for Aarch64 Linux
-Deep learning inference SW framework based on TensorFlow Lite for Automotive Grade Linux (AGL)
+Deep learning inference SW framework based on TensorFlow Lite for Aarch64 Linux
 
-This solution can be installed on any aarch64 Linux system such as Qualcomm SA series
+This solution can be installed on any aarch64 Linux system such as Qualcomm SA series which is based on AGL
 
 For detail, read the ppt
 
